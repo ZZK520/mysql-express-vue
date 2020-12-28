@@ -1,0 +1,13 @@
+
+[{
+    "username":"mod",
+    "email":"yjsgeu04192@chacuo.net",
+    "password":"12345678",
+    "roles":["moderator","user"]
+},
+{
+    "username":"admin",
+    "email":"admin@bezkoder.com",
+    "password":"12345678",
+    "roles":["admin","user"]
+}]
